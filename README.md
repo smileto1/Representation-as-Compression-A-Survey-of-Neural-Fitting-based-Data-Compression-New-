@@ -107,6 +107,7 @@
 | --- | --- | --- | :---: | 
 |  [![Arxiv](https://img.shields.io/badge/arXiv-2025\.08-red)]() <br>[CATP: Contextually Adaptive Token Pruning for Efficient and Enhanced Multimodal In-Context Learning](https://arxiv.org/abs/2508.07871)<br>Yanshu Li, Jianjiang Yang, Zhennan Shen, Ligong Han, Haoyan Xu, Ruixiang Tang |  [![Area](https://img.shields.io/badge/Image--LLM-purple)]() |  [![Type](https://img.shields.io/badge/Attention--Based-green)]() [![Type](https://img.shields.io/badge/Similarity--Based-green)]()<br> [![Cost](https://img.shields.io/badge/Training--Free-yellow)]() |  [Paper](https://arxiv.org/abs/2508.07871)<br> | 
 |  [![Arxiv](https://img.shields.io/badge/arXiv-2025\.08-red)]() <br>[AdaptInfer: Adaptive Token Pruning for Vision-Language Model Inference with Dynamical Text Guidance](https://arxiv.org/abs/2508.06084)<br>Weichen Zhang, Zhui Zhu, Ningbo Li, Kebin Liu, Yunhao Liu |  [![Area](https://img.shields.io/badge/Image--LLM-purple)]() |  [![Type](https://img.shields.io/badge/Attention--Based-green)]()<br> [![Cost](https://img.shields.io/badge/Training--Free-yellow)]() |  [Paper](https://arxiv.org/abs/2508.06084)<br> | 
+</details>
 
 
 
